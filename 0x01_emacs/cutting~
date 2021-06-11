@@ -1,0 +1,1 @@
+(defun xah-cut-line-or-region ()
